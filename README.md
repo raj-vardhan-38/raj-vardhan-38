@@ -147,14 +147,15 @@ $ cat ~/profile.json
 <div align="center">
 
 <a href="https://tryhackme.com/p/Alex.nova" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Alex.nova.png?v=2026" alt="TryHackMe Profile Badge" width="400px" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Alex.nova.png" alt="TryHackMe Profile Badge" width="400px" />
 </a>
 
 <br/><br/>
 
-[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Alex.nova-222831?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Alex.nova)
-[![Security Labs](https://img.shields.io/badge/Hands--on_Labs-Completed-10B981?style=for-the-badge&logo=linux&logoColor=white)](https://tryhackme.com/p/Alex.nova)
-[![Threat Intel](https://img.shields.io/badge/Specialization-Cyber_Threat_Intel-0A66C2?style=for-the-badge&logo=googlecloud&logoColor=white)](https://tryhackme.com/p/Alex.nova)
+[![TryHackMe Level](https://img.shields.io/badge/Level-Hacker_[0x8]-222831?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Alex.nova)
+[![TryHackMe Rank](https://img.shields.io/badge/Global_Rank-Top_7%25_(%23169048)-FF9900?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Alex.nova)
+[![Rooms Completed](https://img.shields.io/badge/Rooms_Completed-85-10B981?style=for-the-badge&logo=linux&logoColor=white)](https://tryhackme.com/p/Alex.nova)
+[![Current Streak](https://img.shields.io/badge/Current_Streak-51_Days-FF4500?style=for-the-badge&logo=fire&logoColor=white)](https://tryhackme.com/p/Alex.nova)
 
 <br/>
 
