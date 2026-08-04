@@ -5,6 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-lemon-anoass2bph.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-therajvardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therajvardhan/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Alex.nova-222831?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Alex.nova)
 [![GitHub](https://img.shields.io/badge/GitHub-raj--vardhan--38-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raj-vardhan-38)
 
 <br/>
@@ -141,23 +142,38 @@ $ cat ~/profile.json
 
 ---
 
+## 🎯 TryHackMe & Cybersecurity Showcase
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/Alex.nova" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Alex.nova.png?v=2026" alt="TryHackMe Profile Badge" width="400px" />
+</a>
+
+<br/><br/>
+
+[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Alex.nova-222831?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Alex.nova)
+[![Security Labs](https://img.shields.io/badge/Hands--on_Labs-Completed-10B981?style=for-the-badge&logo=linux&logoColor=white)](https://tryhackme.com/p/Alex.nova)
+[![Threat Intel](https://img.shields.io/badge/Specialization-Cyber_Threat_Intel-0A66C2?style=for-the-badge&logo=googlecloud&logoColor=white)](https://tryhackme.com/p/Alex.nova)
+
+<br/>
+
+| ⚡ Focus Area | 🛠️ Tools & Methodology | 🏆 Specialty |
+| :--- | :--- | :--- |
+| **Penetration Testing** | `Wireshark` `Nmap` `Metasploit` `Burp Suite` | Network Analysis & Reconnaissance |
+| **Defensive SecOps** | `SIEM` `Threat Intelligence` `Linux Hardening` | Security Monitoring & Incident Response |
+| **Web App Security** | `OWASP Top 10` `API Audit` `JWT/Auth Verification` | Vulnerability Assessment & Remediation |
+
+</div>
+
+---
+
 ## 📊 GitHub Performance & Activity
 
 <div align="center">
-  <p align="center">
-    <a href="https://github.com/raj-vardhan-38">
-      <img src="https://github-readme-stats.vercel.app/api?username=raj-vardhan-38&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Raj's GitHub Stats" width="48%" />
-    </a>
-    <a href="https://github.com/raj-vardhan-38">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-vardhan-38&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/raj-vardhan-38">
-      <img src="https://streak-stats.demolab.com/?user=raj-vardhan-38&theme=tokyonight&hide_border=true" alt="Raj's GitHub Streak" width="97%" />
-    </a>
-  </p>
+  <a href="https://github.com/raj-vardhan-38">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-vardhan-38&theme=tokyo-night&hide_border=true&area=true" alt="Raj's GitHub Activity Graph" width="95%" />
+  </a>
 </div>
 
 ---
@@ -168,6 +184,7 @@ $ cat ~/profile.json
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-lemon-anoass2bph.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-therajvardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therajvardhan/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Alex.nova-222831?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Alex.nova)
 [![GitHub](https://img.shields.io/badge/GitHub-raj--vardhan--38-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raj-vardhan-38)
 
 </div>
