@@ -10,7 +10,6 @@
   <p align="center">
     <a href="https://portfolio-three-lemon-anoass2bph.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_Site-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/therajvardhan/"><img src="https://img.shields.io/badge/LinkedIn-Raj_Vardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:rajvardhansingh120@gmail.com"><img src="https://img.shields.io/badge/Email-rajvardhansingh120@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/raj-vardhan-38"><img src="https://img.shields.io/badge/GitHub-raj--vardhan--38-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
@@ -25,7 +24,6 @@ Raj Vardhan — Computer Science Undergrad & Cyber Security Specialist
 
 $ cat ~/about.json
 {
-  "location": "Gujarat, India",
   "university": "Rashtriya Raksha University (RRU)",
   "degree": "B.Tech in Computer Science & Engineering (Cyber Security)",
   "cgpa": "8.3 / 10.0",
@@ -166,12 +164,10 @@ $ cat ~/about.json
 
 - 🌐 **Portfolio Website:** [portfolio-three-lemon-anoass2bph.vercel.app](https://portfolio-three-lemon-anoass2bph.vercel.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/therajvardhan](https://www.linkedin.com/in/therajvardhan/)
-- 📧 **Email:** [rajvardhansingh120@gmail.com](mailto:rajvardhansingh120@gmail.com)
-- 📱 **Phone:** +91 9693638932
-- 📍 **Location:** Gujarat, India
 
 <p align="center">
   <i>"Building resilient, secure, and high-performance software systems at scale."</i>
 </p>
 #   r a j - v a r d h a n - 3 8  
+ #   r a j - v a r d h a n - 3 8  
  
