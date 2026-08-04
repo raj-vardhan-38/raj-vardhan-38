@@ -1,66 +1,88 @@
-# 👋 Hi, I'm Raj Vardhan
-
 <div align="center">
-  <h3>Full-Stack Developer | Cybersecurity Engineer | AI & DevSecOps Specialist</h3>
 
-  <p>
-    🎓 B.Tech CS (Cyber Security) @ <b>Rashtriya Raksha University</b> &nbsp;|&nbsp; 🎖️ NCC Cadet &nbsp;|&nbsp; 🚀 Founder @ <b>HostelBites</b>
-  </p>
+# 👋 Hi, I'm **Raj Vardhan**
+### **Full-Stack Developer | Cybersecurity Engineer | AI & DevSecOps Specialist**
 
-  <p align="center">
-    <a href="https://portfolio-three-lemon-anoass2bph.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_Site-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/therajvardhan/"><img src="https://img.shields.io/badge/LinkedIn-Raj_Vardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/raj-vardhan-38"><img src="https://img.shields.io/badge/GitHub-raj--vardhan--38-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-lemon-anoass2bph.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-therajvardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therajvardhan/)
+[![GitHub](https://img.shields.io/badge/GitHub-raj--vardhan--38-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raj-vardhan-38)
+
+<br/>
+
+> *"Building resilient, secure, and high-performance software systems at scale."*
+
 </div>
 
 ---
 
-## ⚡ Quick Terminal Profile
+## 📌 About Me
+
+Computer Science undergraduate specializing in **Cyber Security & DevSecOps** at **Rashtriya Raksha University**. Founder of **HostelBites** (funded & incubated startup) with expertise in building multi-tenant SaaS platforms, AI pipelines, and enterprise security solutions.
 
 ```bash
 $ whoami
 Raj Vardhan — Computer Science Undergrad & Cyber Security Specialist
 
-$ cat ~/about.json
+$ cat ~/profile.json
 {
-  "university": "Rashtriya Raksha University (RRU)",
-  "degree": "B.Tech in Computer Science & Engineering (Cyber Security)",
-  "cgpa": "8.3 / 10.0",
-  "incubated_startup": "HostelBites (Funded by AIC-RRU)",
+  "education": "B.Tech CS (Cyber Security) @ Rashtriya Raksha University",
+  "startup": "Founder @ HostelBites (Funded by AIC-RRU)",
   "leadership": "National Cadet Corps (NCC) Cadet | Perplexity Student Partner",
-  "interests": ["DevSecOps", "Full-Stack Web & Mobile", "Network Security", "AI Automation"]
+  "focus_areas": ["DevSecOps", "Cloud Security", "Full-Stack SaaS", "GenAI & Automation"]
 }
 ```
 
 ---
 
+## 🛠️ Technical Capabilities & Stack
+
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Python` `JavaScript (ES6+)` `TypeScript` `C` `C++` `SQL` `Bash` |
+| **Frontend & Web** | `React.js` `Next.js (App Router)` `Tailwind CSS` `Framer Motion` `PWA` |
+| **Backend & Architecture** | `Node.js` `Express.js` `REST APIs` `WebSockets` `JWT Auth` `NPM Workspaces` |
+| **Cybersecurity & SecOps**| `Network Security` `Penetration Testing` `Cyber Threat Intelligence` `Wireshark` `Nmap` |
+| **Databases & Infrastructure** | `MongoDB` `SQL` `Firebase` `Nginx` `PM2` `Ubuntu VPS` `Docker` `Vercel` `Render` |
+| **Data & Automation** | `Pandas` `NumPy` `Scikit-learn` `Apache Airflow` `ETL Pipelines` |
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nextjs,tailwind,nodejs,express,mongodb,firebase,nginx,ubuntu,docker,git,github,vscode,vercel" alt="Skills Icons" />
+</p>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><b>🍱 HostelBites — Campus Food Ecosystem</b></h3>
       <p align="center"><i>Funded & Incubated by AIC-RRU</i></p>
       <ul>
-        <li>Unified food delivery ecosystem with <b>4 React PWAs</b> (Customer, Store, Delivery, Admin) and Node.js REST API.</li>
+        <li>Unified food delivery ecosystem featuring <b>4 React PWAs</b> (Customer, Store, Delivery, Admin) and Node.js REST API.</li>
         <li>Scaled to <b>300+ active users</b> in its first month of launch.</li>
-        <li>Features dual OTP handshake verification, gender-sensitive delivery routing, Socket.io real-time updates, Razorpay webhooks, and FCM push notifications.</li>
+        <li>Engineered dual OTP handshake verification, real-time Socket.io updates, Razorpay webhooks, and FCM push notifications.</li>
       </ul>
       <p align="center">
-        <b>Tech:</b> React PWA, Node.js, Express, MongoDB, Socket.io, FCM, Nginx, PM2
+        <code>React PWA</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Socket.io</code> <code>Nginx</code>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><b>🍽️ MessMate — SaaS Mess Monorepo</b></h3>
-      <p align="center"><i>Multi-tenant Operations & Digital Signage</i></p>
+      <p align="center"><i>Multi-Tenant Operations & Digital Signage</i></p>
       <ul>
         <li>Multi-tenant SaaS monorepo built with <b>NPM Workspaces</b> and <b>Next.js</b>.</li>
         <li>4K-ready canteen digital signage with dynamic timezone meal auto-switching and midnight transition logic.</li>
         <li>Multi-role dashboards for Super Admins, Mess Owners, and student menu portals.</li>
       </ul>
       <p align="center">
-        <b>Tech:</b> Next.js, Node.js, Express, MongoDB, NPM Workspaces, Tailwind CSS
+        <code>Next.js</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>NPM Workspaces</code> <code>Tailwind CSS</code>
       </p>
     </td>
   </tr>
@@ -70,11 +92,11 @@ $ cat ~/about.json
       <p align="center"><i>Official University Research Portal</i></p>
       <ul>
         <li>Official legal research & arbitration database hosted on <code>iadb.rru.ac.in</code>.</li>
-        <li>Improved legal document retrieval efficiency by <b>50%</b>.</li>
+        <li>Improved legal document retrieval efficiency by <b>50%</b> with fast client-side indexing.</li>
         <li>Client-side indexing engine and secure faculty document management panel.</li>
       </ul>
       <p align="center">
-        <b>Tech:</b> HTML5, CSS3, JavaScript, Node.js, Express.js
+        <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Node.js</code> <code>Express.js</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -86,44 +108,21 @@ $ cat ~/about.json
         <li>Automated ETL data cleaning and genomic feature extraction pipeline.</li>
       </ul>
       <p align="center">
-        <b>Tech:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib
+        <code>Python</code> <code>NumPy</code> <code>Pandas</code> <code>Scikit-learn</code> <code>Matplotlib</code>
       </p>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><b>🔍 View More Projects (Notebook Cell Exporter, etc.)</b></summary>
+  <summary><b>🔍 View Additional Projects</b></summary>
   <br/>
-  
+
   ### 🐍 Notebook Cell Exporter — Jupyter Converter
   - Flask web service converting `.ipynb` Jupyter notebooks into clean, production-ready `.py` scripts.
   - Improves export & cleanup speed by **80%**. Deployed on Render: [notebook-cell-exporter.onrender.com](https://notebook-cell-exporter.onrender.com/).
-  - **Tech:** Python, Flask, JSON Parser, HTML5/CSS3, Render.
+  - **Tech:** `Python` `Flask` `JSON Parser` `HTML5/CSS3` `Render`
 </details>
-
----
-
-## 🛠️ Technical Stack & Tooling
-
-<div align="center">
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `Python` `JavaScript (ES6+)` `TypeScript` `C` `C++` `SQL` `HTML5` `CSS3` `Bash` |
-| **Frontend & Mobile** | `React.js` `Next.js (App Router)` `React Native` `Tailwind CSS` `Framer Motion` `PWA` |
-| **Backend & APIs** | `Node.js` `Express.js` `REST APIs` `Socket.io` `JWT Auth` `Razorpay Webhooks` |
-| **Databases & Cloud** | `MongoDB` `SQL` `Firebase (FCM)` `Nginx` `PM2` `Ubuntu VPS` `Vercel` `Render` |
-| **Cybersecurity & SecOps**| `Network Security` `Cyber Threat Intelligence` `Penetration Testing` `Wireshark` `Nmap` |
-| **AI & Automation** | `Pandas` `NumPy` `Scikit-learn` `Apache Airflow` `ETL Pipelines` |
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nextjs,tailwind,nodejs,express,mongodb,firebase,nginx,ubuntu,docker,git,github,vscode,vercel" alt="Skills Icons" />
-</p>
 
 ---
 
@@ -142,32 +141,33 @@ $ cat ~/about.json
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Performance & Activity
 
 <div align="center">
-  <a href="https://github.com/raj-vardhan-38">
-    <img src="https://streak-stats.demolab.com/?user=raj-vardhan-38&theme=tokyonight&hide_border=true" alt="Raj's GitHub Streak" width="90%" />
-  </a>
-</div>
+  <p align="center">
+    <a href="https://github.com/raj-vardhan-38">
+      <img src="https://github-readme-stats.vercel.app/api?username=raj-vardhan-38&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Raj's GitHub Stats" width="48%" />
+    </a>
+    <a href="https://github.com/raj-vardhan-38">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-vardhan-38&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+    </a>
+  </p>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/raj-vardhan-38">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-vardhan-38&theme=tokyo-night&hide_border=true&area=true" alt="Raj's GitHub Activity Graph" width="90%" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/raj-vardhan-38">
+      <img src="https://streak-stats.demolab.com/?user=raj-vardhan-38&theme=tokyonight&hide_border=true" alt="Raj's GitHub Streak" width="97%" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 🤝 Let's Connect
 
-- 🌐 **Portfolio Website:** [portfolio-three-lemon-anoass2bph.vercel.app](https://portfolio-three-lemon-anoass2bph.vercel.app/)
-- 💼 **LinkedIn:** [linkedin.com/in/therajvardhan](https://www.linkedin.com/in/therajvardhan/)
+<div align="center">
 
-<p align="center">
-  <i>"Building resilient, secure, and high-performance software systems at scale."</i>
-</p>
-#   r a j - v a r d h a n - 3 8  
- #   r a j - v a r d h a n - 3 8  
- 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-lemon-anoass2bph.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-therajvardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therajvardhan/)
+[![GitHub](https://img.shields.io/badge/GitHub-raj--vardhan--38-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raj-vardhan-38)
+
+</div>
